@@ -8,7 +8,9 @@
 
 位置：\Metric-Tool\_2arcade
 其中已修改且可用的聚类算法为：ACDC、ARC、Limbo、WCA。
+
 源码地址：[https://github.com/usc-softarch/arcade_core](https://github.com/usc-softarch/arcade_core)
+
 文献参考：Marcelo Schmitt Laser, Nenad Medvidovic, Duc Minh Le, Joshua Garcia: ARCADE: an extensible workbench for architecture recovery, change, and decay evaluation. ESEC/SIGSOFT FSE2020: 1546-1550
 
 3. 后处理工具
