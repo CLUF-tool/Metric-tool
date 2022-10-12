@@ -20,8 +20,7 @@
 4. 评估指标工具
 
 位置：\Metric-Tool\_4Metrics
-项目名，其中可用的指标为外部指标
-外部指标：MoJo、A2A、C2C
+项目名，其中可用的外部指标为：MoJo、A2A、C2C
 ## 2.预处理阶段
 #### A.用于ACDC
 ##### <project>_deps.rsf
@@ -65,6 +64,7 @@ PS：这个Export_Dependecy_RSF()函数主要是用程序导出文件之间的�
 1. <project>-wca-uemnm.cfg
 ### C.输出
 每种聚类方法生成对应的聚类结果/架构
+
 其中WCA和Limbo的结果将会被输出到\Metric-Tool\_2arcade\data文件夹下
 ### D.运行
 ##### ACDC
